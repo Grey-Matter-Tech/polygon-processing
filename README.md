@@ -2,36 +2,15 @@
 
 This repo contains all the code and datasets related to the processing and generation of the flood extent vectors.
 
-## Project Structure
-
-├── .gitignore
-├── input_data/
-│ ├── combined_flood_extents.geojson
-│ ├── Flood_Awareness_Flood_Risk_Overall-5287907542270699974.geojson
-│ ├── qld_gov_flood_extent.geojson
-├── output_data/
-│ ├── flood_extents.mbtiles
-├── rasterise.py
-├── README.md
-├── simplify_geojson.py
-
 ## Scripts
 
 ### simplify_geojson.py
 
 This script simplifies, buffers, and combines polygons in a GeoJSON file.
 
-#### Usage
-
-[Example usage instructions here]
-
 ### rasterise.py
 
 This script processes flood extent data and generates combined flood extents.
-
-#### Usage
-
-[Example usage instructions here]
 
 ## Data
 
