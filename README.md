@@ -28,10 +28,6 @@ Located in the `output_data/` directory:
 
 -   flood_extents.mbtiles
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 -   [GeoPandas](https://geopandas.org/)
